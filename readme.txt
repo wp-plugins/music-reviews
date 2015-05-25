@@ -27,7 +27,7 @@ It is hard to continue development and support for this free plugin without cont
 1. Upload the entire `custom-music-reviews` folder to the `/wp-content/plugins/` directory.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
 
-You will find 'Custom Music Reviews' menu in your WordPress admin panel.
+You will find 'Music Reviews' menu in your WordPress admin panel.
 
 == Frequently Asked Questions ==
 
@@ -36,6 +36,8 @@ Do you have questions or issues with Custom Music Reviews? Use these support cha
 == Screenshots ==
 
 1. screenshot-1.png 
+2. screenshot-2.png 
+3. screenshot-3.png 
 
 == Changelog ==
 
