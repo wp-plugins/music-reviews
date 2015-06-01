@@ -18,7 +18,7 @@ Custom Music review plugin support you to add an new post type with taxonomy, cu
 
 You can mail me your query on [neelesh.chourasia@yahoo.co.in] and I will get back to your with your answers.
 
-= Contact Form 7 Needs Your Support =
+= Custom music reviews Needs Your Support =
 
 It is hard to continue development and support for this free plugin without contributions from users like you. If you enjoy using Custom Music Review and find it useful, then please rate it. Your rating will help encourage and support the plugin's continued development and better user support.
 
