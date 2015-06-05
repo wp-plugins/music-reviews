@@ -1,7 +1,7 @@
 === Custom Music Review ===
 Contributors: Nilesh Chourasia
 Donate link: 
-Tags: post, taxonomy, music, review, music review, generes
+Tags: genres of music, custom music review, music review, classical music review, music genres, post music reviews, taxonomy review, different genres of music, custom post type, plugin development help, post, generes
 Requires at least: 2.0.1.3
 Tested up to: 4.2.2
 Stable tag: 4.0.3
